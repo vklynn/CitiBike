@@ -5,4 +5,4 @@ Tableau review of data can be found here: https://public.tableau.com/views/CitiB
 
 Cleaned data set was to large for github upload, is available upon request. 
 
-Analysis of data can be found with in the Tableau story
+Analysis of data can be found with in the Tableau story 
